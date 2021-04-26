@@ -1,6 +1,6 @@
 # lshwe-semantic-embedding
 This is a project for the course COMS 4995 Semantic Representation for NLP at Columbia University, Spring 2021. 
-
+Prof: Daniel Bauer
 Teammate: Erica Wei, Chuhui Chen, Gary Liu, Samuel Weissmann. 
 
 
