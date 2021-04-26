@@ -12,7 +12,7 @@ Teammate: Erica Wei, Chuhui Chen, Gary Liu, Samuel Weissmann.
 
 
 ## Code 
-We mainly used colab(or jupyter notebook) semantic.ipynb to genreate LSHWE embeddings from data we used. The expected runtime is around 1-2 hours.
+We mainly used colab(or jupyter notebook) semantic.ipynb to genreate LSHWE embeddings from data we used. The expected runtime is around 1-2 hours. We directly used LSHWE model from paper: 
 
 After getting genreated lshwe adn w2v embedding vecotrs, we postprocessed them to be average or sum vector for a whole sentence. 
 
@@ -31,3 +31,6 @@ Note: You can directly check out ./resuls folder if you don't want to run it by 
 ## Future work: 
 1. Adding subword technique on LSHWE model.
 2. Try multiple classifers to compare results. 
+
+
+## Reference 
