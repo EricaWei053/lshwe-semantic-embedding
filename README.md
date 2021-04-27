@@ -5,12 +5,12 @@ Prof: Daniel Bauer
 
 Teammate: Erica Wei, Chuhui Chen, Gary Liu, Samuel Weissmann. 
 
-#### Contribution: 
+### Contribution: 
 Chuhui: Data pre-processing, LSHWE(and W2V) embedding 
 
-Erica: Classification, Data Visualization, Managing repo 
+Erica: Classification, Embedding Visualization, Managing repository  
 
-Sam: Find dataset, Making poster presentastion 
+Sam: Find Dataset, Making poster presentastion 
 
 
 ## Project description 
