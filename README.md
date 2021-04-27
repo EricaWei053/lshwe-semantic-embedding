@@ -5,7 +5,7 @@ Teammate: Erica Wei, Chuhui Chen, Gary Liu, Samuel Weissmann.
 
 
 ## Project description 
-
+As the proliferation of online hate speech continues to grow, many people turn to natural language processing to help curb it’s spread. However, online communities that routinely engage in hate speech often employ simple word substitutions with fictitious, rare, or out-of-context words to avoid detection. Our project aims to solve this issue by using LSHWE. LSHWE uses a Nearest Neighbor (NN) Search to identify words that share high amounts of contextual similarities, while an autoencoder helps learn representations for rare or obfuscated words that share contexts with known words. We used LSHWE embedding and word2vec embedding to compare and analysis how much improvement LSHWE can make on this issue. Details in ./results 
 
 ## Data 
 
