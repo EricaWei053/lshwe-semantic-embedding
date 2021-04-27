@@ -5,6 +5,13 @@ Prof: Daniel Bauer
 
 Teammate: Erica Wei, Chuhui Chen, Gary Liu, Samuel Weissmann. 
 
+#### Contribution: 
+Chuhui: Data pre-processing, LSHWE(and W2V) embedding 
+
+Erica: Classification, Data Visualization, Managing repo 
+
+Sam: Find dataset, Making poster presentastion 
+
 
 ## Project description 
 As the proliferation of online hate speech continues to grow, many people turn to natural language processing to help curb it’s spread. However, online communities that routinely engage in hate speech often employ simple word substitutions with fictitious, rare, or out-of-context words to avoid detection. 
