@@ -9,6 +9,7 @@ Teammate: Erica Wei, Chuhui Chen, Gary Liu, Samuel Weissmann.
 
 ## Data 
 
+We used dataset from: ETHOS: an Online Hate Speech Detection Dataset, which is a textual dataset with two variants: binary and multi-label, called 'ETHOS', based on YouTube and Reddit comments validated through figure-eight crowdsourcing platform. (https://arxiv.org/abs/2006.08328)
 
 
 ## Code 
@@ -34,3 +35,8 @@ Note: You can directly check out ./resuls folder if you don't want to run it by 
 
 
 ## Reference 
+```
+Ioannis Mollas and Zoe Chrysopoulou and Stamatis Karlos and Grigorios Tsoumakas, "ETHOS: an Online Hate Speech Detection Dataset", 2020, arXiv:2006.08328. 
+
+Z. Zhao, M. Gao, F. Luo, Y. Zhang and Q. Xiong, "LSHWE: Improving Similarity-Based Word Embedding with Locality Sensitive Hashing for Cyberbullying Detection," 2020 International Joint Conference on Neural Networks (IJCNN), 2020, pp. 1-8, doi: 10.1109/IJCNN48605.2020.9207640.
+```
